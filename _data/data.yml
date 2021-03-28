@@ -9,7 +9,7 @@ sidebar:
   # Profile information
   name: Roberto Antonio Velasco Munguía # Nombre completo
   tagline: Ruby On Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
-  avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
+  avatar: profile.jpg # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
   email: robertvelasco99@gmail.com
@@ -93,7 +93,7 @@ career-profile:
   title: About Me # NO MODIFICAR
   summary: |
     I'm a student of virtue with solid values and principles, I am currently 
-    studying Software Engineering, in which I'm currently doing my professional 
+    studying Software Engineering, in which I´m currently doing my professional 
     practices, awaiting to gain experience and set them in practice.
 
     One of my objectives is being able to put in practice the knowledge and 
