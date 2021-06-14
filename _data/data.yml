@@ -27,7 +27,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Proficient # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: 573 TOEFL ITP # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -97,8 +97,8 @@ career-profile:
     practices, awaiting to gain experience and set them in practice.
 
     One of my objectives is being able to put in practice the knowledge and 
-    experienced gained throughout my career, I stands by to be integrated in to
-    the software development community, where I would like to keep on developing
+    experienced gained throughout my career, I'm on stand by to be integrated in to
+    the software development community, where I would like to keep on expanding
     my software engineer career.
 
 
@@ -114,11 +114,12 @@ educationcomplete:
         - Mobile applications
         - Parallel programming 
         - Image processing
+        - Project management
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Front End Developer
-    time: 2019 - 2020
+    time: 2019 - 2021
     company: Finanset
     details: |
       In this project I was a Front end developer along with another
@@ -127,6 +128,14 @@ experiences:
       obstacles we decided to let it go, and go another way with the
       perspective of the thesis.
 
+  - role: BrightCoder
+    time: Mar 2021 - Jun 2021
+    company: MagmaLabs
+    details: |
+      This is the company in which I completed my professional practices
+      here I learned a lot about real world experiences in software development
+      and the workflow that is being used, I got to be able to use all the skills 
+      learned in school and apply them, and I got to learn how the pros develop.
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -138,19 +147,19 @@ skills:
 
   toolset:
     - name: Python
-      level: 20%
+      level: 10%
 
     - name: C# .Net
-      level: 30%
+      level: 20%
 
     - name: JS/TS
-      level: 60%
+      level: 40%
 
     - name: JSX/TSX
       level: 40%
 
     - name: Matlab
-      level: 40%
+      level: 35%
 
     - name: C/C++
       level: 20%
@@ -158,8 +167,11 @@ skills:
     - name: Ruby
       level: 40%
 
+    - name: RoR
+      level: 40%
+
     - name: HTML/CSS
-      level: 60%
+      level: 50%
 # NO MODIFICAR
 footer: >
   BrightCoders Academy
